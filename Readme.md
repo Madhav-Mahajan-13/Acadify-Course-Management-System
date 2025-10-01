@@ -5,7 +5,10 @@ This system manages **courses, offerings, faculty, documents, chatrooms, and com
 ensuring smooth coordination between faculty, coordinators, and administration.
 
 ---
+## 🖥️ Schema
+<img width="1528" height="788" alt="image" src="https://github.com/user-attachments/assets/593034c5-51ea-49dd-9080-6656c3800f9f" />
 
+---
 ## 🚀 Highlights
 - **Structured Course Offerings** – link courses, semesters, and coordinators.
 - **Automated Chatrooms** – every course offering gets its own discussion space.
